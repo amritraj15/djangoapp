@@ -1,0 +1,9 @@
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\bin\AzureSetup.cfg
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\bin\wfastcgi.py
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\obj\Release\web.config
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\obj\Release\web.debug.config
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\obj\Release\deployment-updated-pyvenv.cfg
+C:\Users\amritraj\Documents\Visual Studio 2013\Projects\DatabaseFun\DatabaseFun\ptvs_virtualenv_proxy.py
